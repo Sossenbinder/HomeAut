@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAut", "HomeAut\HomeAut.csproj", "{A6C89AD2-E869-4E70-B18D-C761C01DDEA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAut.YeeLight", "HomeAut.YeeLight\HomeAut.YeeLight.csproj", "{F77B4172-1370-4ADE-BB93-A33EA6B1727A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAuth.Common", "HomeAuth.Common\HomeAuth.Common.csproj", "{4D474860-0730-4AFE-8F69-76586841C2A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C89AD2-E869-4E70-B18D-C761C01DDEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C89AD2-E869-4E70-B18D-C761C01DDEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C89AD2-E869-4E70-B18D-C761C01DDEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C89AD2-E869-4E70-B18D-C761C01DDEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77B4172-1370-4ADE-BB93-A33EA6B1727A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77B4172-1370-4ADE-BB93-A33EA6B1727A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77B4172-1370-4ADE-BB93-A33EA6B1727A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77B4172-1370-4ADE-BB93-A33EA6B1727A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D474860-0730-4AFE-8F69-76586841C2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D474860-0730-4AFE-8F69-76586841C2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D474860-0730-4AFE-8F69-76586841C2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D474860-0730-4AFE-8F69-76586841C2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C532F3-B820-471D-A3C6-1F92B10B5DCB}
+	EndGlobalSection
+EndGlobal

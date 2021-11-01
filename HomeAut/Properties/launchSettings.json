@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HomeAut": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
